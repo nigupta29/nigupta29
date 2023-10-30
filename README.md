@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 
 > _I'm Nikhil Gupta! Quality Analyst turning into **Web Developer**. You can call me Jerry as well!_
 
-- 🌱 I’m currently learning: **React and it's Ecosystem**
+- 🌱 I’m currently learning: **React and it's Ecosystem** alond side brushing up with **DSA**
 - 👯 I’m looking to collaborate on: **Web Projects related to React Stack**
 - 🤔 I’m looking for help in finding open source projects.
 - 🔭 I’m currently working in: **LTIMindtree** as **Quality Analyst**
 - 🎓 _Bachelor of Technology_ from **NIT Rourkela**
-
-![](https://komarev.com/ghpvc/?username=nigupta29&style=for-the-badge&color=brightgreen)
 
 ### Tech Stack
 

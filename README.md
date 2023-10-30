@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-### Hola Amigos 👋!
+## Hola Amigos 👋!
 
-> _I'm Nikhil Gupta! Quality Analyst turning into Web Developer.
-> You can call me Jerry as well!_
+> _I'm Nikhil Gupta! Quality Analyst turning into **Web Developer**. You can call me Jerry as well!_
 
 - 🌱 I’m currently learning: **React and it's Ecosystem**
 - 👯 I’m looking to collaborate on: **Web Projects related to React Stack**
@@ -28,8 +27,27 @@ Here are some ideas to get you started:
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,py,html,css,javascript,bootstrap,tailwind,figma,react,nodejs,express,selenium,mongodb,mysql" alt="Languages and Frameworks" />
-<img src="https://skillicons.dev/icons?i=figma,git,github,eclipse,vscode,postman" alt="Tools" />
+<div class="w-2-of-12-large w-4-of-12-mid w-12-of-12-small">
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=py" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=bootstrap" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=express" />
+<img src="https://skillicons.dev/icons?i=selenium" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=eclipse" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=postman" />
+</div>
 
 ### Socials
 

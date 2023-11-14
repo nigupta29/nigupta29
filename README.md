@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 > _I'm Nikhil Gupta! Quality Analyst turning into **Web Developer**. You can call me Jerry as well!_
 
-- 🌱 I’m currently learning: **React and it's Ecosystem** along with **DSA**
+- 🌱 I’m currently learning: **React and it's Ecosystem** alongside with **DSA**
 - 👯 I’m looking to collaborate on: **Web Projects related to React Stack**
 - 🤔 I’m looking for help in finding open source projects.
 - 🔭 I’m currently working in: **LTIMindtree** as **Quality Analyst**
@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 ### Latest Projects
 
 [![Weather App Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nigupta29&repo=weather-app&theme=swift)](https://github.com/nigupta29/weather-app)
+[![Shopping Cart Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nigupta29&repo=shopping-cart-react-js&theme=swift)](https://github.com/nigupta29/shopping-cart-react-js)
 
 ### Socials
 

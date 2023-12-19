@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 
 ### Latest Projects
 
+[![WriteSpace Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nigupta29&repo=write-space-blog&theme=swift)](https://github.com/nigupta29/write-space-blog)
 [![Weather App Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nigupta29&repo=weather-app&theme=swift)](https://github.com/nigupta29/weather-app)
-[![Shopping Cart Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nigupta29&repo=shopping-cart-react-js&theme=swift)](https://github.com/nigupta29/shopping-cart-react-js)
 
 ### Socials
 

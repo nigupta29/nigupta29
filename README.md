@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 > _I'm Nikhil Gupta! Quality Analyst turning into **Web Developer**. You can call me Jerry as well!_
 
-- 🌱 I’m currently learning: **React and it's Ecosystem** alongside with **DSA**
-- 👯 I’m looking to collaborate on: **Web Projects related to React Stack**
+- 🌱 I’m currently learning: **MERN and it's Ecosystem** alongside with **DSA**
+- 👯 I’m looking to collaborate on: **Web Projects related to MERN Stack**
 - 🤔 I’m looking for help in finding open source projects.
 - 🔭 I’m currently working in: **LTIMindtree** as **Quality Analyst**
 - 🎓 _Bachelor of Technology_ from **NIT Rourkela**

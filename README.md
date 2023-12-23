@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 
 [![WriteSpace Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nigupta29&repo=write-space-blog&theme=swift)](https://github.com/nigupta29/write-space-blog)
 [![Weather App Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nigupta29&repo=weather-app&theme=swift)](https://github.com/nigupta29/weather-app)
+[![Drink Discover Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nigupta29&repo=drink-discover&theme=swift)](https://github.com/nigupta29/drink-discover)
 
 ### Socials
 

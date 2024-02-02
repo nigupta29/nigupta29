@@ -31,9 +31,11 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=typescript" />
   <img src="https://skillicons.dev/icons?i=bootstrap" />
   <img src="https://skillicons.dev/icons?i=tailwind" />
   <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
   <img src="https://skillicons.dev/icons?i=redux" />
   <img src="https://skillicons.dev/icons?i=firebase" />
   <img src="https://skillicons.dev/icons?i=supabase" />
@@ -50,16 +52,18 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=postman" />
 </div>
 
+<!-- 
 ### Latest Projects
 
 [![WriteSpace Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nigupta29&repo=write-space-blog&theme=swift)](https://github.com/nigupta29/write-space-blog)
 [![Weather App Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nigupta29&repo=weather-app&theme=swift)](https://github.com/nigupta29/weather-app)
 [![Drink Discover Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nigupta29&repo=drink-discover&theme=swift)](https://github.com/nigupta29/drink-discover)
+-->
 
 ### Socials
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhil.gupts5667@gmail.com?subject=connect%20with%20Nikhil%20Gupta)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/nigupta29)
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/code_with_jerry)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/code_with_jerry)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/nigupta29/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jerry_codes)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jerry_codes)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/nigupta29)

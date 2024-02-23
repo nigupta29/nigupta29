@@ -16,40 +16,34 @@ Here are some ideas to get you started:
 ## Hola Amigos 👋!
 
 > _I'm Nikhil Gupta! Quality Analyst turning into **Web Developer**. You can call me Jerry as well!_
-
+ 
 - 🌱 I’m currently learning: **MERN and it's Ecosystem** alongside with **DSA**
-- 👯 I’m looking to collaborate on: **Web Projects related to MERN Stack**
-- 🤔 I’m looking for help in finding open source projects.
+- 👯 I’m looking to collaborate on: **Full Stack Projects**
 - 🔭 I’m currently working in: **LTIMindtree** as **Quality Analyst**
 - 🎓 _Bachelor of Technology_ from **NIT Rourkela**
+- 💬 Follow my Tech journey on - [Twitter](https://twitter.com/jerry_codes)
+  
 
 ### Tech Stack
 
 <div class="w-2-of-12-large w-4-of-12-mid w-12-of-12-small">
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=py" />
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=javascript" />
-  <img src="https://skillicons.dev/icons?i=typescript" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" />
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=nextjs" />
-  <img src="https://skillicons.dev/icons?i=redux" />
-  <img src="https://skillicons.dev/icons?i=firebase" />
-  <img src="https://skillicons.dev/icons?i=supabase" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=express" />
-  <img src="https://skillicons.dev/icons?i=selenium" />
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=eclipse" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=java&theme=light" />
+  <img src="https://skillicons.dev/icons?i=py&theme=light" />
+  <img src="https://skillicons.dev/icons?i=javascript&theme=light" />
+  <img src="https://skillicons.dev/icons?i=typescript&theme=light" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react&theme=light" />
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=light" />
+  <img src="https://skillicons.dev/icons?i=redux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=express&theme=light" />
+  <img src="https://skillicons.dev/icons?i=firebase&theme=light" />
+  <img src="https://skillicons.dev/icons?i=supabase&theme=light" />
+  <img src="https://skillicons.dev/icons?i=selenium&theme=light" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=light" />
+  <img src="https://skillicons.dev/icons?i=postgresql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=postman&theme=light" />
 </div>
 
 <!-- 
@@ -58,6 +52,7 @@ Here are some ideas to get you started:
 [![WriteSpace Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nigupta29&repo=write-space-blog&theme=swift)](https://github.com/nigupta29/write-space-blog)
 [![Weather App Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nigupta29&repo=weather-app&theme=swift)](https://github.com/nigupta29/weather-app)
 [![Drink Discover Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nigupta29&repo=drink-discover&theme=swift)](https://github.com/nigupta29/drink-discover)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nigupta29&layout=compact)
 -->
 
 ### Socials
@@ -67,3 +62,4 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jerry_codes)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jerry_codes)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/nigupta29)
+

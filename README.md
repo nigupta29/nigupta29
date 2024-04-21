@@ -10,9 +10,9 @@
 - **Languages:** `Java` `JavaScript` `TypeScript` `Python`
 - **Frontend:** `React` `Next.js` `Tailwind` `Zustand` `Redux-Toolkit`
 - **Backend:** `Express.js` `Postgresql` `MongoDB` `Prisma` `Mongooose`  
-- **Testing:** `Selenium` `Playwright` `TestNG` `Postman`
-- **CI/CD:** `Docker`
-- **Tools:** `Linux` `Git` `GitHub` `VS Code` `Eclipse`
+- **Testing:** `Selenium` `Playwright` `TestNG`
+- **CI/CD:** `Docker` `Jenkins`
+- **Tools:** `Linux` `Git` `GitHub` `VS Code` `Eclipse` `Postman`
 - **Others:** `MS Office` `Scrum` `Confluence` `Jira`
 
 <!-- 
@@ -20,10 +20,11 @@
 TODO: Add live links and pin the repos in github
 -->
 #### 👷‍♂️ Projects
+- 🏏 [मेराSquad](https://github.com/nigupta29/mera-squad)
 - 🔪 [Express Boilerplate](https://github.com/nigupta29/express-rest-boilerplate)
 - 🆘 [Help Desk](https://github.com/nigupta29/help-desk)
-- 🌡️ [Weatherly](https://github.com/nigupta29/weather-app)
 - 🍷 [Drink Discover](https://github.com/nigupta29/drink-discover)
+- 🌡️ [Weatherly](https://github.com/nigupta29/weather-app)
 
 #### 📫 Connect
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhil.gupts5667@gmail.com?subject=connect%20with%20Nikhil%20Gupta)

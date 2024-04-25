@@ -1,7 +1,6 @@
 ### Hey, I'm Nikhil Gupta 👋  
 
 - ✨ I am a _Full Stack Developer_ and _Automation QA Engineer_ who loves to make and break things.
-- 🔭 Currently employed at: **LTIMindtree Ltd.** as a **Senior Quality Analyst**.
 - 🎓 _**Bachelor of Technology**_ in _**Food Process Engineering**_ from [**NIT Rourkela**](https://www.nitrkl.ac.in/).
 - 🔗 Follow my tech journey on [twitter/@jerry_codes](https://twitter.com/jerry_codes)
 
@@ -16,6 +15,7 @@
 - **Others:** `MS Office` `Scrum` `Confluence` `Jira`
 
 <!-- 
+- 🔭 Currently employed at: **LTIMindtree Ltd.** as a **Senior Quality Analyst**.
 - 🌡️ []()
 TODO: Add live links and pin the repos in github
 -->

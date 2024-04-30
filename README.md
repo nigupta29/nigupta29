@@ -21,8 +21,10 @@
 TODO: Add live links and pin the repos in github
 -->
 #### 👷‍♂️ Projects
+- 🍽️ [GIS Demo](https://github.com/nigupta29/gis-next-app)
 - 🏏 [मेराSquad](https://github.com/nigupta29/mera-squad)
 - 🔪 [Express Boilerplate](https://github.com/nigupta29/express-rest-boilerplate)
+- ❓ [Quizilo](https://github.com/nigupta29/quiz-app-next)
 - 🆘 [Help Desk](https://github.com/nigupta29/help-desk)
 - 🍷 [Drink Discover](https://github.com/nigupta29/drink-discover)
 - 🌡️ [Weatherly](https://github.com/nigupta29/weather-app)
